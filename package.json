@@ -1,0 +1,26 @@
+{
+  "name": "Gulp",
+  "version": "0.0.0",
+  "description": "premier teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hello\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MEDA313/Sandwich.git"
+  },
+  "keywords": [
+    "teste",
+    "pour",
+    "voir"
+  ],
+  "author": "meda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MEDA313/Sandwich/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
